@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+}
+header{
+    background: #eeeeee;
+}
+.headerinner{
+    width: 650px;
+    height: 100px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+footer{
+    background: #eeeeee;
+}
+
+.footerInner{
+    text-align: center;
+    margin-top: 50px;
+    padding: 30px;
+}
